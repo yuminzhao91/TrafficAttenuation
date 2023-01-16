@@ -6,8 +6,13 @@ The associated raw data can be downloaded from the following links. NUS exit: ht
 Bibtex:
 
 @article{zhao2023traffic,
+
   title={Seismic attenuation extraction from traffic signals recorded by a single seismic station},
+
   author={Zhao, Yumin and Nilot, Enhedelihai and Li, Bei and Fang, Gang and Luo, Wei and Li, Yunyue Elita},
+
   journal={Geophysical Research Letters, accepted},
-  year={2023},
+
+  year={2023}
+  
 }
